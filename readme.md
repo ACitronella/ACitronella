@@ -2,20 +2,21 @@
 
 ## About me
 
-Typical computer science student undergrad who sucks at mathematics but still passionate about category theory. Mainly work in deep learning field.
+Typical computer science student undergrad who sucks at mathematics but still deeply passionate about category theory and mathematics. Mainly work in deep learning field.
 
 ## Capable of
 
 - Imparative programming (Python3)
-- Machine learning library (TensorFlow, PyTorch)
-- Image processing library (OpenCV)
+- Machine learning (TensorFlow, PyTorch, Scikit-learn)
 
 ## Still Learning
 
 - Haskell
 - Functional programming
 - Category theory
+- Deep active learning
+- Contrasive learning
 
 ## Stats
 
-[![Wakatime Language usage graph](https://wakatime.com/share/@b5dae763-7b7d-454d-9af0-11617fc07be0/e5c3f9b7-e7e1-4378-b745-6fec2e21686d.svg)](https://wakatime.com/@ACitronella)
+[![Wakatime Language usage graph](https://wakatime.com/share/@ACitronella/cbf5ccb8-b10e-4cfd-acd9-e9d703c8a053.svg)](https://wakatime.com/@ACitronella)
