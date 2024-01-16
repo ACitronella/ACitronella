@@ -18,5 +18,4 @@ Typical computer science student undergrad who sucks at mathematics but still de
 - Contrasive learning
 
 ## Stats
-
-[![Wakatime Language usage graph](https://wakatime.com/share/@ACitronella/cbf5ccb8-b10e-4cfd-acd9-e9d703c8a053.svg)](https://wakatime.com/@ACitronella)
+[![Wakatime Language usage graph](https://wakatime.com/share/@ACitronella/bfbf1f2c-43b0-4ac5-bf4d-1208fff02bb6.svg)](https://wakatime.com/@ACitronella)
