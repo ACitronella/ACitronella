@@ -6,7 +6,7 @@ Typical computer science student undergrad who sucks at mathematics but still de
 
 ## Capable of
 
-- Imparative programming (Python3)
+- Imperative programming (Python3)
 - Machine learning (TensorFlow, PyTorch, Scikit-learn)
 
 ## Still Learning
