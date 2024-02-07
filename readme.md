@@ -15,11 +15,8 @@ Typical computer science student undergrad who sucks at mathematics but still de
 
 ## Still Learning
 
-- Haskell
 - Functional programming
 - Category theory
 - Deep active learning
 - Contrasive learning
-
-## Stats
-[![Wakatime Language usage graph](https://wakatime.com/share/@ACitronella/bfbf1f2c-43b0-4ac5-bf4d-1208fff02bb6.svg)](https://wakatime.com/@ACitronella)
+- Description logic
